@@ -1,5 +1,5 @@
 FROM aem-base
-MAINTAINER Adfinis SyGroup/Namics
+MAINTAINER Mayara Gouveia
 
 # AEM VERSION, e.g., 6.4
 ARG version
