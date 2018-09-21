@@ -1,5 +1,5 @@
 FROM domblack/oracle-jre8
-MAINTAINER Adfinis SyGroup/Namics
+MAINTAINER Mayara Gouveia
 
 RUN yum install -y epel-release && yum clean all
 RUN yum install -y --enablerepo=centosplus \
